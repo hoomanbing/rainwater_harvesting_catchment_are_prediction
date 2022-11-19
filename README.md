@@ -1,6 +1,6 @@
 # Rainwater_Harvesting_Catchment_Area_Prediction
 
-This repo contains 3 Machine Learning models which predict the amount of rainfall in different states of India, amount of rainfall in different districts of West Bengal, and also predicts the underground catchment area depending on the predictions of the first two models.
+This repo contains 3 Machine Learning models which predicts the amount of rainfall in different states of India, amount of rainfall in different districts of West Bengal, and also predicts the underground catchment area depending on the predictions of the first two models.
 
 ## Model 1 [Rainfall_India]
 ### This model predicts the amount of rainfall received by the different states of India for the next 365 days. The 'rainfall in india 1901-2015' dataset has been used to train, test and validate the model.
